@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://divahair.onrender.com/sitemap.xml
